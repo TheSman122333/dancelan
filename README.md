@@ -68,9 +68,6 @@ Integration with smartphones as controllers
 
 Upload-your-own-song support
 
-🤝 Contributing
-Pull requests are welcome! Feel free to fork the repo and submit improvements or suggestions.
-
 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the All Rights Reserved License!
 
